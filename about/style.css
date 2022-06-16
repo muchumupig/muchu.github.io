@@ -1,0 +1,15 @@
+.navbar {
+    position: fixed;
+    width: 1440px;
+}
+
+.nav-link {
+    padding-left: 30px;
+    padding-right: 30px;
+    color: black;
+}
+
+.nav-link:hover {
+    color: lightcoral;
+    text-shadow: 5px;
+}
