@@ -1,0 +1,41 @@
+.footer {
+    background-color: mediumspringgreen;
+    width: 1920px;
+    height: 50px;
+    color: darkslategray;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.navbar {
+    position: fixed;
+    width: 1440px;
+}
+
+.white {
+    width: 1920px;
+    height: 50px;
+}
+
+.bg {
+    background-image: url(gif.gif);
+}
+
+.box {
+    width: 1920px;
+    height: 300px;
+    background-color: white;
+}
+
+.nav-link {
+    padding-left: 30px;
+    padding-right: 30px;
+    color: black;
+}
+
+.nav-link:hover {
+    color: lightcoral;
+    text-shadow: 5px;
+}
